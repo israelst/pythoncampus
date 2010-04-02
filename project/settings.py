@@ -8,6 +8,8 @@ ADMINS = (
     ('Admin PythonCampus', 'admin@pythoncampus.org'),
 )
 
+DEBUG = True
+
 MANAGERS = ADMINS
 
 # Local time zone for this installation. Choices can be found here:
